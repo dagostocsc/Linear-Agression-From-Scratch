@@ -10,7 +10,7 @@ This project demonstrates a simple linear regression model built from scratch us
 
     Applied linear regression manually (without using high-level libraries like scikit-learn)
 
-    Visualized the best-fit line against the data points
+    Visualized the best fit line against the data points
 
     Evaluated model performance using basic error metrics (such as Mean Squared Error, R-squared)
 
