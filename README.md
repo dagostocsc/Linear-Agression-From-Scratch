@@ -2,13 +2,13 @@ This project demonstrates a simple linear regression model built from scratch us
 
     Dataset: 99 observations, 2 numerical variables (feature and target).
 
-    Goal: Predict the target variable based on the feature input using a best-fit linear model.
+    Goal: Predict the target variable based on the feature input using a best fit linear model.
 
     Process:
 
         Cleaned and prepared raw data
 
-        Applied linear regression manually (without using high-level libraries like scikit-learn)
+        Applied linear regression manually (without using high level libraries like scikit-learn)
 
         Visualized the best fit line against the data points
 
